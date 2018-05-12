@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4886
     wikipedia: http://fr.wikipedia.org/wiki/Francis_Rolt-Wheeler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45462#The-Wonder-of-War-on-Land
 gutenberg_issued: '2014-04-23'
 gutenberg_type: Text
 identifiers:
